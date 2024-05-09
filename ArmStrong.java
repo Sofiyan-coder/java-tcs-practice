@@ -1,5 +1,7 @@
 
 /*
+TCS - NQT - YOP 2024
+
         Check element in linkedlist are Armstrong number 
 
         input:
